@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "sa ΛΛΛ onica Food Festival",
+    "paragraph": "3ήμερο φεστιβάλ γευσιγνωσίας με άρωμα Θεσσαλονίκης"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Με πρωτοβουλία του Δήμου της πόλης, για την προώθηση των σπεσιαλιτέ των τοπικών επιχειρήσεων, διοργανώνεται το παρόν φεστιβάλ για κατοίκους αλλά και μη! ",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -129,30 +129,8 @@
       "name": "Johnathan Doe"
     }
   ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
-    }
-  ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Θεσσαλονίκη ",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
     "facebook": "fb.com",
@@ -161,24 +139,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-ticket",
+      "title": "Εκπτωτικές τιμές",
+      "text": "Τα συνεργαζόμενα σημεία φαγητού θα προσφέρουν έως και 40% έκπτωση στους συμμετέχοντες!"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-globe",
+      "title": "Παγκόσμιες κουζίνες",
+      "text": "Οι γεύσεις έχουν επιμεληθεί ώστε να προέρχονται από όλα τα μέρη του κόσμου."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-road",
+      "title": "Στο χέρι ή και όχι!",
+      "text": "Εκτός από εστιατόρια, πολλά σημεία προσφέρουν φαγητό σε πακέτο ώστε να απολάυσετε τις σπεσιαλιτέ καθ'οδόν."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-leaf",
+      "title": "Γεύσεις για όλους",
+      "text": "Οι κουζίνες περιλαμβάνουν όλες τις προτιμήσεις, όπως vegan, κτλ."
     }
   ]
 }
