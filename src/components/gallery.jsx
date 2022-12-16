@@ -5,11 +5,8 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Σημεια Πωλησης</h2>
-          <p>
-            Εδώ θα βρείτε όλα τα συνεργαζόμενα σημεία παράδοσης φαγητού και να
-            επιλέξετε πού θα απολαύσετε το φαγητό σας.
-          </p>
+          <h2>Restaurants</h2>
+          <p></p>
         </div>
         <div className="row">
           <div className="portfolio-items">

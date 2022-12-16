@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "sa ΛΛΛ onica Food Festival",
-    "paragraph": "3ήμερο φεστιβάλ γευσιγνωσίας με άρωμα Θεσσαλονίκης"
+    "title": "",
+    "paragraph": "A four-day event, will take place on 10-13 June, 2023, in Thessaloniki’s most upscale restaurants!"
   },
   "About": {
-    "paragraph": "Με πρωτοβουλία του Δήμου της πόλης, για την προώθηση των σπεσιαλιτέ των τοπικών επιχειρήσεων, διοργανώνεται το παρόν φεστιβάλ για κατοίκους αλλά και μη! ",
+    "paragraph": "Organized to promote Thessaloniki as a culinary destination, the festival is a perfect assemblage of food, fun and entertainment. Expect to experience culinary workshops, music performances, master classes, food events, and of course, delicious, mouthwatering food! ",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -20,47 +20,47 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "ThesBao",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "FALAFEL",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Clochard",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "7 Thalasses",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "ALAS restaurant",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "CHAROUPI restaurant",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Extravaganza restaurant ",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Maitr & Margarita restaurant ",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Surfer Maya Street Food Restaurant ",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -99,34 +99,34 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/whitetower.jpg",
+      "text": "\"The White Tower of Thessaloniki is a monument and museum on the waterfront of the city of Thessaloniki. It was built in the fifteenth century after the fall of Thessaloniki to the Ottomans in 1430.\"",
+      "name": "White Tower"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/Museums.jpg",
+      "text": "\"A city with plenty of museums like Archaeological Museum, Museum of Byzantine Culture, Photography Museum, Museum of Cinema, and even more in order to discover the rich city’s history.\"",
+      "name": "Museums"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/modiano.jpg",
+      "text": "\"Modiano and Kapani markets are the best destination for shopping local products such as olives, spices, herbs, traditional Greek cheeses, and even meat or fish. It’s also the perfect place to have your lunch, as there are many typical Greek taverns.\"",
+      "name": "Markets"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/shopping.jpg",
+      "text": "\"There is always time for a little shopping and you can definitely enjoy luxury, fashionable boutiques in Proxenou Koromila, Mitropoleos streets, and also the classic choices in Tsimiki, Ermou and Egnatia streets.\"",
+      "name": "Shopping"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/Churches.jpg",
+      "text": "\"There are several churches in Thessaloniki dating back thousands of years. Some of the best churches that are worth a visit are Hagios Demetrios, Hagia Sophia, Agios Pavlos, The Church of Panagia Chalkeon.\"",
+      "name": "Churches"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/Gastronomy.jpg",
+      "text": "\"Thessaloniki's gastronomy is widely known for its quality and rich variety. A journey through the history of this important trading port is an encounter with empires – Hellenistic, Roman, Byzantine and Ottoman – and vibrant communities, each of which has left their mark on the city’s cuisine.\"",
+      "name": "Gastronomy"
     }
   ],
   "Contact": {
@@ -140,23 +140,23 @@
   "Features": [
     {
       "icon": "fa fa-ticket",
-      "title": "Εκπτωτικές τιμές",
-      "text": "Τα συνεργαζόμενα σημεία φαγητού θα προσφέρουν έως και 40% έκπτωση στους συμμετέχοντες!"
+      "title": "PRICE SPECIALS",
+      "text": "Michelin-starred restaurants, upscale spots and the coolest canteens will offer exclusive discounts of up to 40%."
     },
     {
       "icon": "fa fa-globe",
-      "title": "Παγκόσμιες κουζίνες",
-      "text": "Οι γεύσεις έχουν επιμεληθεί ώστε να προέρχονται από όλα τα μέρη του κόσμου."
+      "title": "INTERNATIONAL FLAVOURS",
+      "text": "Enjoy a unique international mix of flavours with restaurants offering from exclusive tasting menus to “good-to-go” street food."
     },
     {
       "icon": "fa fa-road",
-      "title": "Στο χέρι ή και όχι!",
-      "text": "Εκτός από εστιατόρια, πολλά σημεία προσφέρουν φαγητό σε πακέτο ώστε να απολάυσετε τις σπεσιαλιτέ καθ'οδόν."
+      "title": "FINE DINING OR “GOOD-TO-GO”?",
+      "text": "During the festival period, the city’s coolest eating spots will open their doors to create unique menus, master classes, food events and food-to-go."
     },
     {
       "icon": "fa fa-leaf",
-      "title": "Γεύσεις για όλους",
-      "text": "Οι κουζίνες περιλαμβάνουν όλες τις προτιμήσεις, όπως vegan, κτλ."
+      "title": "FESTIVAL FOR FOODIES",
+      "text": "From awesome local cuisine with Mediterranean flair, to international flavours such as Vietnamese Baobuns, Middle East’ Falafels, and fine French and Italian dining, there is an overflow of food offerings to cater for every taste. "
     }
   ]
 }

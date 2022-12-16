@@ -37,11 +37,11 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Αιτηση εισιτηριων</h2>
+                <h2>TICKET REQUEST</h2>
                 <p>
-                  Συμπληρώστε τα στοιχεία σας ώστε να λάβετε το εισιτηριό σας
-                  για το Φεστιβάλ. Το κάθε εισιτήριο θα αφορά αποκλειστικά ένα
-                  άτομο και θα τηρηθεί σειρά προτεραιότητας.
+                  Fill in your details to receive your Festival ticket! Each
+                  ticket will only concern one person and priority order will be
+                  respected.
                 </p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
@@ -89,20 +89,9 @@ export const Contact = (props) => {
                 </div>
                 <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
-                  Αποστολή
+                  submit
                 </button>
               </form>
-            </div>
-          </div>
-          <div className="col-md-3 col-md-offset-1 contact-info">
-            <div className="contact-item">
-              <h3>Δήμος Θεσσαλονίκης </h3>
-              <p>
-                <span>
-                  <i className="fa fa-map-marker"></i> Διεύθυνση
-                </span>
-                {props.data ? props.data.address : "loading"}
-              </p>
             </div>
           </div>
           <div className="col-md-12">
@@ -132,7 +121,7 @@ export const Contact = (props) => {
       </div>
       <div id="footer">
         <div className="container text-center">
-          <p>&copy; Δήμος Θεσσαλονίκης 2023</p>
+          <p>&copy; Municipality of Thessaloniki 2023</p>
         </div>
       </div>
     </div>

@@ -3,7 +3,7 @@ export const Testimonials = (props) => {
     <div id="testimonials">
       <div className="container">
         <div className="section-title text-center">
-          <h2>Λιγα λογια από τους διοργανωτές</h2>
+          <h2>Why visit Thessaloniki? </h2>
         </div>
         <div className="row">
           {props.data
@@ -15,8 +15,8 @@ export const Testimonials = (props) => {
                       <img src={d.img} alt="" />{" "}
                     </div>
                     <div className="testimonial-content">
-                      <p>"{d.text}"</p>
-                      <div className="testimonial-meta"> - {d.name} </div>
+                      <div className="testimonial-meta"> {d.name} </div>
+                      <p>{d.text}</p>
                     </div>
                   </div>
                 </div>

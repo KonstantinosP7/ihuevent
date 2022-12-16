@@ -6,14 +6,14 @@ export const About = (props) => {
           <div className="col-xs-12 col-md-6">
             {" "}
             <img
-              src="img/municipality.png"
+              src="img/whattoexpect.png"
               className="img-responsive"
               alt=""
             />{" "}
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
-              <h2>Δήμος Θεσσαλονίκης</h2>
+              <h2>Municipality of Thessaloniki</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <div className="list-style"></div>
             </div>

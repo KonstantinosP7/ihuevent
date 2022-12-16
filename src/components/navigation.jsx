@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ
+            <img src="./img/home.png" alt="" />
           </a>{" "}
         </div>
 
@@ -27,32 +27,32 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                ΤΙ?
+                WHAT?
               </a>
             </li>
             <li>
               <a href="#about" className="page-scroll">
-                ΠΟΙΟΣ?
+                WHO?
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                ΠΟΥ?
+                WHERE?
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                ΠΟΤΕ?
+                WHEN?
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                ΓΙΑΤΙ?
+                WHY?
               </a>
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                ΕΙΣΙΤΗΡΙΑ
+                TICKETS
               </a>
             </li>
           </ul>

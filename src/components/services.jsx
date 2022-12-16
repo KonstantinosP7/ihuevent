@@ -5,8 +5,9 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>save the date!</h2>
           <p>
-            Το τριήμερο 10-13 Ιουνίου 2023 έχει οριστεί ως η επίσημη περίοδος
-            για τα συνεργαζόμενα σημεία πώλησης.
+            Salonica Food Festival, a four-day event, will take place on 10-13
+            June, 2023, in the most upscale restaurants in Thessaloniki! Are you
+            ready to join?
           </p>
         </div>
       </div>
